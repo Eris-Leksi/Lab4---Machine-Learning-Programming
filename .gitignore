@@ -1,0 +1,48 @@
+# Virtual environments
+venv/
+env/
+.env/
+*.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Logs and local configuration
+*.log
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+.cache/
+nosetests.xml
+coverage.xml
+
+# Pycharm
+.idea/
+
+# mypy and other tools
+.mypy_cache/
